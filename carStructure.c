@@ -1,6 +1,4 @@
-/* Name: Umut Bayindir
-    Id number : 1091926
-    date: October 19th 2022*/
+
 
 
 
